@@ -1,4 +1,4 @@
-# NLW1-by-Tobias-Rossi-M-ller
+# NLW1-by-Tobias-Rossi-Muller
 Projeto desenvolvido no bootcamp da rocketseat chamado Next Level Week trilha Booster.
 Esse bootcamp foi muito legal devido a experiência de trabalhar com Typescript, React e Node. 
 Anteriormente já havia trabalhado com freelance em react e node mas em javascript. 
